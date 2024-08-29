@@ -4,8 +4,8 @@
               Version 3.1
    Copyright (C) 2003-2008 JavaScript-Coder.com. All rights reserved.
    You can freely use this script in your Web pages.
-   You may adapt this script for your own needs, provided these opening credit
-    lines are kept intact.
+   You may adapt this script for your own needs, provided these opening credit lines of some codes
+   are kept intact.
       
    The Form validation script is distributed free from JavaScript-Coder.com
    For updates, please visit:
